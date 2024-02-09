@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nova+Oval&family=Ultra&display=swap');
+
+nav {
+    display: flex;
+}
+.nav-title{
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: 'Nova Oval', system-ui;
+    font-family: 'Ultra', serif;
+}
+.text-primary{
+    color: indigo;
+}
+
+nav> ul{
+    display: flex;
+}
+nav li{
+    margin-left: 10px;
+    list-style: none;
+    text-decoration: none;
+}
